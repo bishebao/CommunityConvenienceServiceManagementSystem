@@ -1,0 +1,2 @@
+# CommunityConvenienceServiceManagementSystem
+ 基于SpringBoot Vue社区便民服务管理系统
